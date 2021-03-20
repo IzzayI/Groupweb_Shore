@@ -60,6 +60,12 @@ header {
 	margin-right: auto;
 }
 
+#CTA {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
 footer {
     background-color: rgba(65,108,124,1.00);
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
