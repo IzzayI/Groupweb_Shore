@@ -21,6 +21,11 @@ button {
     font-weight: 700;
 }
 
+#banner {
+    text-align: center;
+    background-size: cover;
+    background-image: url(../images/hero.jpg);
+}
 h1 {
 	text-align: center;
 	margin: 30px;
