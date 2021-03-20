@@ -45,14 +45,28 @@ header {
 	margin-right: auto;
 }
 
+.shore {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: center;
+}
+
+.h4 {
+    background-color: rgba(229,237,241,0.54);	
+}
+
+#mission {
+	background-color: rgba(229,237,241,0.54);	
+}
+
 #CTA {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
     font-style: italic;
     font-weight: bold;
     text-align: center;
     margin-left: 88px;
-    background-color: rgba(248,115,137,0.19);
+    background-color: rgba(239,245,245,0.31);
     background-repeat: repeat-x;
+    color: rgba(232,99,130,1.00);
 }
 
 footer {
