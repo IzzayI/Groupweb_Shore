@@ -31,22 +31,7 @@ h1 {
 	margin: 30px;
 }
 
-li {
-	padding: 20px;
-}
 
-h2 {
-	text-align: center;
-}
-
-.container p {
-	text-align: center;
-}
-
-
-.extratext {
-	margin: 50px;
-}
 
 header {
 	background-color: #416c7c;
@@ -64,6 +49,10 @@ header {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
     font-style: italic;
     font-weight: bold;
+    text-align: center;
+    margin-left: 88px;
+    background-color: rgba(248,115,137,0.19);
+    background-repeat: repeat-x;
 }
 
 footer {
