@@ -9,17 +9,7 @@
 	font-weight: normal;
 }
 
-button {
-    position: fixed;
-    top: 70px;
-    right: 50px;
-    background-color: antiquewhite;
-    padding: 20px;
-    border-radius: 30px;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 15px;
-    font-weight: 700;
-}
+
 
 #banner {
     text-align: center;
