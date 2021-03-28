@@ -59,7 +59,9 @@ img {
 	background-clip: padding-box;
 }
 
-
+.landingpage {
+	background-image:url("../images/landingpage.png");
+}
 
 .contact {
 	margin: 10%;
