@@ -63,6 +63,41 @@ img {
 	background-image:url("../images/landingpage.png");
 }
 
+#meetshore {
+    color: rgba(251,196,133,1.00);
+    text-align: left;
+    font-weight: bolder;
+}
+
+#mssion {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 31px;
+}
+
+home-page-section {
+    position: relative;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.content {
+    background: white;
+    padding: 30px 15px;
+    color: #0f346c;
+    box-sizing: border-box;
+    width: 440px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.recipe {
+    width: 80px;
+}
+
+.section-titel {align-content: center;}
+
 .contact {
 	margin: 10%;
 	text-align: center;
@@ -93,15 +128,8 @@ header {
 	background-color: rgba(229,237,241,0.54);	
 }
 
+
 #CTA {
-    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
-    font-style: italic;
-    font-weight: bolder;
-    text-align: center;
-    margin-left: 88px;
-    background-color: rgba(239,245,245,0.84);
-    background-repeat: repeat-x;
-    color: rgba(250,143,148,1.00);
 }
 
 footer {
