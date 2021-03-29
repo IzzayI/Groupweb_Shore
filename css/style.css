@@ -150,14 +150,12 @@ img {
 }
 header {
 	background-color: #416c7c;
-	height: 150px;
+	height: 50px;
 }
 
-#logo {
-	width: 400px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+.logo {
+    width: 350px;
+	position: 
 }
 
 .shore {
