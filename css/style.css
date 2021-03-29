@@ -182,7 +182,11 @@ header {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-size: larger;
     text-align: center;
-	margin-top: 20%;
+	margin-top: 10%;
+}
+
+.shre{
+	margin-top: 4%;
 }
 
 .insta {
