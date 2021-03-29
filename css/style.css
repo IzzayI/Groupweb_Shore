@@ -154,10 +154,11 @@ header {
 }
 
 .nav-link {
-	color: rgba(251,196,133,1.00);
+    color: rgba(251,196,133,1.00);
+    margin-bottom: 37px;
 }
 #logo {
-    width: 122px;
+    width: 132px;
 }
 
 .shore {
