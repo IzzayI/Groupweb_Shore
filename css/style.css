@@ -153,6 +153,9 @@ header {
 	height: 59px;
 }
 
+.nav-link {
+	color: rgba(251,196,133,1.00);
+}
 #logo {
     width: 122px;
 }
