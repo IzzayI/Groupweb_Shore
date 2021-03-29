@@ -62,20 +62,9 @@ img {
 .landingpage {
     background-image: url(../images/landingpage.png);
     background-size: cover;
+    background-position: 0% 68%;
 }
 
-#meetshore {
-    color: rgba(251,196,133,1.00);
-    text-align: left;
-    font-weight: bolder;
-}
-
-#mssion {
-    color: white;
-    font-weight: bold;
-    text-align: left;
-    margin-left: 31px;
-}
 
 
 
