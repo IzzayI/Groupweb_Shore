@@ -65,8 +65,19 @@ img {
     background-position: 0% 68%;
 }
 
+.heroimage {
+    text-align: left;
+    color: white;
+    bottom: 30px;	
+	font-size: 1.5rem;
+}
 
-
+.meetshore {
+    text-align: left;
+    color: rgba(251,194,132,1.00);
+    font-size: 3rem;
+    font-weight: bolder;
+}
 
 .content {
     background: white;
@@ -78,6 +89,10 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.btn-warning {color: white;
+font-weight: bold;}
+
 .recipe {
     width: 80px;
 }
