@@ -60,8 +60,8 @@ img {
 }
 
 .landingpage {
-	background-image:url("../images/landingpage.png");
-
+    background-image: url(../images/landingpage.png);
+    background-size: cover;
 }
 
 #meetshore {
@@ -156,10 +156,13 @@ header {
 .nav-link {
     color: rgba(251,196,133,1.00);
     margin-bottom: 37px;
+	margin-right: 2px;
+	margin-left: 3px;
 }
 #logo {
     width: 132px;
 }
+
 
 .shore {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
@@ -176,6 +179,7 @@ header {
 
 
 #CTA {
+    text-align: center;
 }
 
 .footer {
