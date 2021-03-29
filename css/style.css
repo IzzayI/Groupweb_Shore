@@ -128,6 +128,20 @@ img {
 	margin-bottom: 10px;
 }
 
+.png {
+    width: 80px;
+}
+
+.howitworks {
+	text-align: center;
+	color: rgba(251,196,133,1.00);
+}
+.h2txt {
+	text-align: center;
+	color: black;
+	font-size: 25px;
+	
+}
 header {
 	background-color: #416c7c;
 	height: 150px;
