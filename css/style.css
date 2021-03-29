@@ -177,9 +177,15 @@ header {
 #CTA {
 }
 
-footer {
+.footer {
     background-color: rgba(65,108,124,1.00);
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-size: larger;
     text-align: center;
+	margin-top: 20%;
+}
+
+.insta {
+	width: 30px;
+	margin-bottom: 2%;
 }
