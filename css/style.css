@@ -61,6 +61,7 @@ img {
 
 .landingpage {
 	background-image:url("../images/landingpage.png");
+
 }
 
 #meetshore {
@@ -119,6 +120,7 @@ img {
     text-align: center;
     color: rgba(251,196,133,1.00);
 	margin-bottom: 5%;
+	font-size: 40px;
 }
 
 .pngs {
@@ -136,11 +138,14 @@ img {
 .howitworks {
 	text-align: center;
 	color: rgba(251,196,133,1.00);
+	font-size: 40px;
+	
 }
 .h2txt {
 	text-align: center;
 	color: black;
 	font-size: 23px;
+	margin-top: 5%;
 	
 }
 header {
