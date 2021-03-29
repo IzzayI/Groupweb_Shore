@@ -76,11 +76,7 @@ img {
     margin-left: 31px;
 }
 
-home-page-section {
-    position: relative;
-    margin-bottom: 70px;
-    text-align: center;
-}
+
 
 .content {
     background: white;
@@ -109,6 +105,11 @@ home-page-section {
 
 
 .section-titel {align-content: center;}
+
+.home-page-section {
+    background-image: url("../images/berries.png");
+    background-size: cover;
+}
 
 .contact {
 	margin: 10%;
