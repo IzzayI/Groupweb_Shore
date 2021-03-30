@@ -62,11 +62,12 @@ img {
 .landingpage {
     background-image: url(../images/landingpage.png);
     background-size: cover;
-    background-position:
-;
+
     background-position: 0% 97%;
 }
 
+.shorelogo {
+}
 .heroimage {
     text-align: left;
     color: white;
