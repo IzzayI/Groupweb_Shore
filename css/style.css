@@ -112,6 +112,7 @@ font-weight: bold;}
 .home-page-section {
     background-image: url("../images/foodtray.png");
     background-size: cover;
+	margin-top: 7%;
 }
 
 
