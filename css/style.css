@@ -39,7 +39,8 @@ img {
 }
 
 .jumbotron {
-	margin: 50px;
+	margin: cover;
+	margin-top: 50px;
 	background-image: url("../images/gathering.jpg");
    	background-attachment: fixed;
 	background-size: cover;
