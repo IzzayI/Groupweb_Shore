@@ -114,6 +114,7 @@ font-weight: bold;}
     background-size: cover;
 }
 
+
 .contact {
 	margin: 10%;
 	text-align: center;
@@ -162,12 +163,8 @@ header {
 	margin-left: 3px;
 }
 #logo {
-    width: 200px;
-	padding-top: 0px;
-	
-	
-	
-	
+    width: 58px;
+    padding-top: 0px;
 }
 
 
