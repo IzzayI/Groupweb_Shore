@@ -156,15 +156,22 @@ font-weight: bold;}
 }
 header {
 	background-color: #416c7c;
-	height: 59px;
+	height: auto;
 }
 
 .nav-link {
     color: rgba(251,196,133,1.00);
-    margin-bottom: 37px;
+    margin-bottom: 0px;
+	margin-top: 0px;
 	margin-right: 2px;
 	margin-left: 3px;
+	padding: 0px;
 }
+
+.logo {
+    width: 70px;
+}
+
 #logo {
     width: 80px;
     padding-top: 0px;
