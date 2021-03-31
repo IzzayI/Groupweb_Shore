@@ -12,12 +12,6 @@
 
 
 
-#banner {
-    text-align: center;
-    background-size: cover;
-    background-image: url(../images/hero.jpg);
-}
-
 h1 {
 	text-align: center;
 	margin: 30px;
@@ -67,8 +61,7 @@ img {
     background-position: 0% 97%;
 }
 
-.shorelogo {
-}
+
 .heroimage {
     text-align: left;
     color: white;
@@ -116,7 +109,7 @@ font-weight: bold;}
 .section-titel {align-content: center;}
 
 .home-page-section {
-    background-image: url("../images/berries.png");
+    background-image: url("../images/foodtray.png");
     background-size: cover;
 }
 
