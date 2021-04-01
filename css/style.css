@@ -1,5 +1,4 @@
 
-<<<<<<< Updated upstream
 * {
 	margin: 0px;
 	padding: 0px;
@@ -201,19 +200,13 @@ header {
 
 .footer {
     background-color: rgba(65,108,124,1.00);
-    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-    font-size: larger;
     text-align: center;
-	margin-top: 10%;
-}
-
-.shre{
-	padding-top: 1%;
+	margin-top: 5%;
+	margin-bottom: 0px;
+	padding: 5px;
 }
 
 .insta {
 	width: 30px;
 	margin-bottom: 2%;
 }
-=======
->>>>>>> Stashed changes
