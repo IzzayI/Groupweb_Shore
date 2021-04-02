@@ -1,5 +1,8 @@
+<<<<<<< HEAD
+Updated upstream
+=======
 
-<<<<<<< Updated upstream
+>>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
 * {
 	margin: 0px;
 	padding: 0px;
@@ -18,9 +21,28 @@ h1 {
 	color: rgba(251,194,132,1.00);
 }
 
+h2 {
+	color: #052635;
+}
+
 img {
 	width: 90%;
 	align-content: center;
+}
+.circle {
+    border-radius: 134px;
+    border-color: #F3C58E;
+    border-width: thick;
+}
+
+.buttonlink {
+	font-size: 1.2em;
+	color: rgba(251,194,132,1.00);
+	background-color: #416C7C;
+	padding: 8px;
+	border-radius: 6px;
+	border: 1px solid ;
+	
 }
 
 .carousel
@@ -38,29 +60,50 @@ img {
 }
 
 .jumbotron {
-	margin: cover;
-	margin-top: 50px;
-	background-image: url("../images/gathering.jpg");
-   	background-attachment: fixed;
-	background-size: cover;
-	color: #416C7C;
-	text-align: center;
-	font-size: 20px;
+    margin: cover;
+    margin-top: 50px;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #416C7C;
+    text-align: center;
+    font-size: 20px;
+    background-image: url("../images/landingpage.png");
+}
+.jumbotron2 {
+    margin: cover;
+    margin-top: 50px;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #416C7C;
+    text-align: center;
+    font-size: 20px;
+    background-image: url("../images/ourplansbanner.jpg");
+}
+
+.happy {
+	background-image: url("../images/happycustomer.jpg");
 }
 
 .visibility {
-	border: 10px solid hsla(0,0%,100%,.5);
- 	background: #fff;
-	background-clip: padding-box;
+ 	background-color: white;
+	padding: 3px;
+	padding-left: 0%;
+	margin: 10%;
 }
 
 .landingpage {
-    background-image: url(../images/landingpage.png);
+    background-image: url("../images/landingpage.png");
     background-size: cover;
 
     background-position: 0% 97%;
 }
 
+.ourplanspage {
+    background-image: url("../images/ourplansbanner.jpg");
+    background-size: cover;
+
+    background-position: 0% 97%;
+}
 .socialmed {
 	text-align: center;
 }
@@ -112,17 +155,34 @@ font-weight: bold;}
 
 .section-titel {align-content: center;}
 
-.home-page-section {
-    background-image: url("../images/foodtray.png");
-    background-size: cover;
-	margin-top: 7%;
+.section-titel2 {
+ 
+    color: #FFFFFF;
+    text-align: center;
 }
+
+.home-page-section {
+    background-size: cover;
+    margin-top: 7%;
+    background-image: url(../images/foodtray.png);    
+}
+
+.home-page-section2 {
+    background-size: cover;
+    margin-top: 7%;
+    background-color: #F3C58E;	
+}
+jumbotron3 {
+    background-image: url(../images/lemonbanner.jpg);
+}
+
 
 
 .contact {
 	margin: 10%;
 	text-align: center;
 }
+
 .section-titel {
     text-align: center;
     color: rgba(251,196,133,1.00);
@@ -201,19 +261,43 @@ header {
 
 .footer {
     background-color: rgba(65,108,124,1.00);
-    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-    font-size: larger;
     text-align: center;
-	margin-top: 10%;
-}
-
-.shre{
-	padding-top: 1%;
+	margin-top: 5%;
+	margin-bottom: 0px;
+	padding: 5px;
 }
 
 .insta {
 	width: 30px;
 	margin-bottom: 2%;
+<<<<<<< HEAD
+}.button {
+    background-color: #416C7C;
+    color: white;
+    border-radius: 20px;
+}
+.button-group {
+    background-color: #8DABAC;
+    border-radius: 10px;
+}
+.aboutuspage {
+    background-image: url(../images/lemonbanner.jpg);
+    background-position: 13% 36%;
+    background-size: cover;
+}
+.my-container {
+    border-radius: 86px;
+    background-color: #F3C58E;
+    color: #416C7C;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 49px;
+    padding-right: 49px;
+    padding-left: 49px;
+    padding-bottom: 49px;
+    border: medium solid #8DABAC;
 }
 =======
->>>>>>> Stashed changes
+}
+>>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
