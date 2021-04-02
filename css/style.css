@@ -2,6 +2,9 @@
 Updated upstream
 =======
 
+<<<<<<< HEAD
+>>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
+=======
 >>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
 * {
 	margin: 0px;
@@ -33,6 +36,16 @@ img {
     border-radius: 134px;
     border-color: #F3C58E;
     border-width: thick;
+}
+
+.buttonlink {
+	font-size: 1.2em;
+	color: rgba(251,194,132,1.00);
+	background-color: #416C7C;
+	padding: 8px;
+	border-radius: 6px;
+	border: 1px solid ;
+	
 }
 
 .buttonlink {
@@ -78,6 +91,10 @@ img {
     text-align: center;
     font-size: 20px;
     background-image: url("../images/ourplansbanner.jpg");
+}
+
+.happy {
+	background-image: url("../images/happycustomer.jpg");
 }
 
 .happy {
@@ -271,6 +288,7 @@ header {
 	width: 30px;
 	margin-bottom: 2%;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }.button {
     background-color: #416C7C;
     color: white;
@@ -298,6 +316,9 @@ header {
     padding-bottom: 49px;
     border: medium solid #8DABAC;
 }
+=======
+}
+>>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
 =======
 }
 >>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
