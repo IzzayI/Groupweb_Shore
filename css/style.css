@@ -141,7 +141,10 @@ font-weight: bold;}
 
 .vegetables {width: 80px;}
 
-
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
 
 .section-titel {
 	align-content: center;
@@ -262,6 +265,7 @@ header {
 .button-group {
     background-color: #8DABAC;
     border-radius: 10px;
+	
 }
 .aboutuspage {
     background-image: url(../images/lemonbanner.jpg);
