@@ -75,6 +75,9 @@ img {
 	background-image: url("../images/happycustomer.jpg");
 }
 
+.gather {
+	background-image: url("../images/gathering.jpg")
+}
 
 .visibility {
  	background-color: white;
@@ -82,13 +85,6 @@ img {
 	padding-left: 0%;
 	padding-right: 0%;
 	margin: 10%;
-}
-
-.landingpage {
-    background-image: url("../images/landingpage.png");
-    background-size: cover;
-
-    background-position: 0% 97%;
 }
 
 .ourplanspage {
@@ -99,14 +95,6 @@ img {
 }
 .socialmed {
 	text-align: center;
-}
-
-
-.heroimage {
-    text-align: left;
-    color: white;
-    bottom: 30px;	
-	font-size: 1.5rem;
 }
 
 .meetshore {
