@@ -276,3 +276,9 @@ header {
 .beige {
 	background-color: rgba(251,194,132,1.00);
 }
+
+.justificationtext {
+	margin-left: 30px;
+	margin-right: 30px;
+	
+}
