@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-Updated upstream
-=======
 
-<<<<<<< HEAD
->>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
-=======
->>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
 * {
 	margin: 0px;
 	padding: 0px;
@@ -15,7 +8,10 @@ Updated upstream
 	
 }
 
-
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
 
 h1 {
 	text-align: center;
@@ -32,21 +28,13 @@ img {
 	width: 90%;
 	align-content: center;
 }
+
 .circle {
     border-radius: 134px;
     border-color: #F3C58E;
     border-width: thick;
 }
 
-.buttonlink {
-	font-size: 1.2em;
-	color: rgba(251,194,132,1.00);
-	background-color: #416C7C;
-	padding: 8px;
-	border-radius: 6px;
-	border: 1px solid ;
-	
-}
 
 .buttonlink {
 	font-size: 1.2em;
@@ -73,7 +61,6 @@ img {
 }
 
 .jumbotron {
-    margin: cover;
     margin-top: 50px;
     background-attachment: fixed;
     background-size: cover;
@@ -82,37 +69,21 @@ img {
     font-size: 20px;
     background-image: url("../images/landingpage.png");
 }
-.jumbotron2 {
-    margin: cover;
-    margin-top: 50px;
-    background-attachment: fixed;
-    background-size: cover;
-    color: #416C7C;
-    text-align: center;
-    font-size: 20px;
-    background-image: url("../images/ourplansbanner.jpg");
-}
 
 .happy {
 	background-image: url("../images/happycustomer.jpg");
 }
 
-.happy {
-	background-image: url("../images/happycustomer.jpg");
+.gather {
+	background-image: url("../images/gathering.jpg")
 }
 
 .visibility {
  	background-color: white;
 	padding: 3px;
 	padding-left: 0%;
+	padding-right: 0%;
 	margin: 10%;
-}
-
-.landingpage {
-    background-image: url("../images/landingpage.png");
-    background-size: cover;
-
-    background-position: 0% 97%;
 }
 
 .ourplanspage {
@@ -125,14 +96,6 @@ img {
 	text-align: center;
 }
 
-
-.heroimage {
-    text-align: left;
-    color: white;
-    bottom: 30px;	
-	font-size: 1.5rem;
-}
-
 .meetshore {
     text-align: left;
     color: rgba(251,194,132,1.00);
@@ -143,7 +106,7 @@ img {
 .content {
     background: white;
     padding: 30px 15px;
-    color: #0f346c;
+    color: #052635;
     box-sizing: border-box;
     width: 440px;
     position: relative;
@@ -169,9 +132,6 @@ font-weight: bold;}
 .vegetables {width: 80px;}
 
 
-
-.section-titel {align-content: center;}
-
 .section-titel2 {
  
     color: #FFFFFF;
@@ -189,10 +149,6 @@ font-weight: bold;}
     margin-top: 7%;
     background-color: #F3C58E;	
 }
-jumbotron3 {
-    background-image: url(../images/lemonbanner.jpg);
-}
-
 
 
 .contact {
@@ -252,12 +208,6 @@ header {
     width: 70px;
 }
 
-#logo {
-    width: 80px;
-    padding-top: 0px;
-}
-
-
 .shore {
     font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
     text-align: center;
@@ -277,18 +227,18 @@ header {
 }
 
 .footer {
-    background-color: rgba(65,108,124,1.00);
+    background-color: #416C7C;
     text-align: center;
 	margin-top: 5%;
 	margin-bottom: 0px;
 	padding: 5px;
+	color: rgba(251,194,132,1.00);
 }
 
 .insta {
 	width: 30px;
 	margin-bottom: 2%;
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 }.button {
     background-color: #416C7C;
     color: white;
@@ -297,6 +247,7 @@ header {
 .button-group {
     background-color: #8DABAC;
     border-radius: 10px;
+	
 }
 .aboutuspage {
     background-image: url(../images/lemonbanner.jpg);
@@ -316,9 +267,17 @@ header {
     padding-bottom: 49px;
     border: medium solid #8DABAC;
 }
-=======
+
+.blue {
+	background-color: #416C7C;
 }
->>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
-=======
+
+.beige {
+	background-color: rgba(251,194,132,1.00);
 }
->>>>>>> 9294dbde212a13ec791e300830a8874add24e47c
+
+.justificationtext {
+	margin-left: 30px;
+	margin-right: 30px;
+	
+}
